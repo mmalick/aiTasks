@@ -1,4 +1,4 @@
-# PSi Project
+# AI tasks
 
 This repository contains two tasks completed as part of the PSi course:
 
